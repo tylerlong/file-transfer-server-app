@@ -1,1 +1,3 @@
-# transfer-files-app
+# Transfer Files
+
+Transfer files among your devices.
